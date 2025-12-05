@@ -429,12 +429,12 @@ export default function PrivacyPage() {
               <p className="text-gray-700">
                 Website:{" "}
                 <a
-                  href="https://ministryteams.app/privacy"
+                  href="https://ministryteams.life/privacy"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-purple-600 hover:text-purple-700 underline"
                 >
-                  https://ministryteams.app/privacy
+                  https://ministryteams.life/privacy
                 </a>
               </p>
             </div>
